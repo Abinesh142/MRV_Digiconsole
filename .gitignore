@@ -1,0 +1,42 @@
+# Folders
+resource/temp
+MahindraGUI/temp/
+MahindraGUI/Demo1/temp/
+source/HardwareDebug/
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+
+# Executables
+*.exe
+*.out
+*.app
+*.in
+*.o.in
+*.o.lst
+source/src/tes/GSE/Libraries/Windows/MSVC/Release/GSElib.lib
+source/src/tes/GSE/Libraries/Windows/MSVC/Debug/GSElib.lib
+MahindraGUI/Digi_Console-Test1/temp/
